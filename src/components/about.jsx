@@ -33,6 +33,17 @@ educating the next generation. Team worker with the additional quality of leader
             </div>
             </div>
             <div className="row row-pt-md">
+            <div className="col-md-4 text-center animate-box">
+                    <div className="services color-4">
+                    <span className="icon">
+                        <i className="icon-layers2" />
+                    </span>
+                    <div className="desc">
+                        <h3>Neural Networks</h3>
+                        <p>I have worked with neural networks, mostly concentrating on Computer Vision Convolutional neural networks. I did the Standford cs231n course and all its assigments</p>
+                    </div>
+                    </div>
+                </div>
                 <div className="col-md-4 text-center animate-box">
                     <div className="services color-1">
                     <span className="icon">
@@ -55,7 +66,9 @@ educating the next generation. Team worker with the additional quality of leader
                     </div>
                     </div>
                 </div>
-                <div className="col-md-4 text-center animate-box">
+            </div>
+            <div className="row row-pt-md">
+            <div className="col-md-4 text-center animate-box">
                     <div className="services color-5">
                     <span className="icon">
                         <i className="icon-data" />
@@ -66,8 +79,6 @@ educating the next generation. Team worker with the additional quality of leader
                     </div>
                     </div>
                 </div>
-            </div>
-            <div className="row row-pt-md">
                 <div className="col-md-4 text-center animate-box">
                     <div className="services color-2">
                     <span className="icon">
@@ -78,26 +89,15 @@ educating the next generation. Team worker with the additional quality of leader
                         <p>Stressful the situations, brighter the solutions that come out of my brain </p>
                     </div>
                     </div>
-                </div>
-                <div className="col-md-4 text-center animate-box">
-                    <div className="services color-4">
-                    <span className="icon">
-                        <i className="icon-layers2" />
-                    </span>
-                    <div className="desc">
-                        <h3>d</h3>
-                        <p></p>
-                    </div>
-                    </div>
-                </div>
+                </div>              
                 <div className="col-md-4 text-center animate-box">
                     <div className="services color-6">
                     <span className="icon">
                         <i className="icon-phone3" />
                     </span>
                     <div className="desc">
-                        <h3>d</h3>
-                        <p> </p>
+                        <h3>People Skills</h3>
+                        <p>I am a People's Person!</p>
                     </div>
                     </div>
                 </div>
