@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rajeshkrishnait/RajeshKrishna.git/static/css/main.7854ba0e.chunk.css",
-    "main.js": "/rajeshkrishnait/RajeshKrishna.git/static/js/main.464a1320.chunk.js",
-    "main.js.map": "/rajeshkrishnait/RajeshKrishna.git/static/js/main.464a1320.chunk.js.map",
-    "runtime-main.js": "/rajeshkrishnait/RajeshKrishna.git/static/js/runtime-main.eccc3876.js",
-    "runtime-main.js.map": "/rajeshkrishnait/RajeshKrishna.git/static/js/runtime-main.eccc3876.js.map",
-    "static/js/2.300f5ca0.chunk.js": "/rajeshkrishnait/RajeshKrishna.git/static/js/2.300f5ca0.chunk.js",
-    "static/js/2.300f5ca0.chunk.js.map": "/rajeshkrishnait/RajeshKrishna.git/static/js/2.300f5ca0.chunk.js.map",
-    "index.html": "/rajeshkrishnait/RajeshKrishna.git/index.html",
-    "static/css/main.7854ba0e.chunk.css.map": "/rajeshkrishnait/RajeshKrishna.git/static/css/main.7854ba0e.chunk.css.map",
-    "static/js/2.300f5ca0.chunk.js.LICENSE.txt": "/rajeshkrishnait/RajeshKrishna.git/static/js/2.300f5ca0.chunk.js.LICENSE.txt",
-    "static/media/Resume.32510228.pdf": "/rajeshkrishnait/RajeshKrishna.git/static/media/Resume.32510228.pdf"
+    "main.css": "/RajeshKrishna/static/css/main.7854ba0e.chunk.css",
+    "main.js": "/RajeshKrishna/static/js/main.3c7402f9.chunk.js",
+    "main.js.map": "/RajeshKrishna/static/js/main.3c7402f9.chunk.js.map",
+    "runtime-main.js": "/RajeshKrishna/static/js/runtime-main.6eba5dee.js",
+    "runtime-main.js.map": "/RajeshKrishna/static/js/runtime-main.6eba5dee.js.map",
+    "static/js/2.300f5ca0.chunk.js": "/RajeshKrishna/static/js/2.300f5ca0.chunk.js",
+    "static/js/2.300f5ca0.chunk.js.map": "/RajeshKrishna/static/js/2.300f5ca0.chunk.js.map",
+    "index.html": "/RajeshKrishna/index.html",
+    "static/css/main.7854ba0e.chunk.css.map": "/RajeshKrishna/static/css/main.7854ba0e.chunk.css.map",
+    "static/js/2.300f5ca0.chunk.js.LICENSE.txt": "/RajeshKrishna/static/js/2.300f5ca0.chunk.js.LICENSE.txt",
+    "static/media/Resume.32510228.pdf": "/RajeshKrishna/static/media/Resume.32510228.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.eccc3876.js",
+    "static/js/runtime-main.6eba5dee.js",
     "static/js/2.300f5ca0.chunk.js",
     "static/css/main.7854ba0e.chunk.css",
-    "static/js/main.464a1320.chunk.js"
+    "static/js/main.3c7402f9.chunk.js"
   ]
 }
