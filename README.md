@@ -1,2 +1,2 @@
 # Rajesh-Portfolio
-https://rajeshkrishnadev.herokuapp.com/
+https://rajeshkrishnait.github.io/RajeshKrishna/
