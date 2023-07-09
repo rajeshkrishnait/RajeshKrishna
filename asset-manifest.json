@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RajeshKrishna/static/css/main.7854ba0e.chunk.css",
-    "main.js": "/RajeshKrishna/static/js/main.59c68f2e.chunk.js",
-    "main.js.map": "/RajeshKrishna/static/js/main.59c68f2e.chunk.js.map",
+    "main.css": "/RajeshKrishna/static/css/main.6863cb2f.chunk.css",
+    "main.js": "/RajeshKrishna/static/js/main.a222914f.chunk.js",
+    "main.js.map": "/RajeshKrishna/static/js/main.a222914f.chunk.js.map",
     "runtime-main.js": "/RajeshKrishna/static/js/runtime-main.6eba5dee.js",
     "runtime-main.js.map": "/RajeshKrishna/static/js/runtime-main.6eba5dee.js.map",
     "static/js/2.300f5ca0.chunk.js": "/RajeshKrishna/static/js/2.300f5ca0.chunk.js",
     "static/js/2.300f5ca0.chunk.js.map": "/RajeshKrishna/static/js/2.300f5ca0.chunk.js.map",
     "index.html": "/RajeshKrishna/index.html",
-    "static/css/main.7854ba0e.chunk.css.map": "/RajeshKrishna/static/css/main.7854ba0e.chunk.css.map",
+    "static/css/main.6863cb2f.chunk.css.map": "/RajeshKrishna/static/css/main.6863cb2f.chunk.css.map",
     "static/js/2.300f5ca0.chunk.js.LICENSE.txt": "/RajeshKrishna/static/js/2.300f5ca0.chunk.js.LICENSE.txt",
-    "static/media/Rajesh_krishna_rajaakumar_0723.b66f1aea.pdf": "/RajeshKrishna/static/media/Rajesh_krishna_rajaakumar_0723.b66f1aea.pdf"
+    "static/media/Rajesh_Rajakumar_0823.f664f690.pdf": "/RajeshKrishna/static/media/Rajesh_Rajakumar_0823.f664f690.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.6eba5dee.js",
     "static/js/2.300f5ca0.chunk.js",
-    "static/css/main.7854ba0e.chunk.css",
-    "static/js/main.59c68f2e.chunk.js"
+    "static/css/main.6863cb2f.chunk.css",
+    "static/js/main.a222914f.chunk.js"
   ]
 }
