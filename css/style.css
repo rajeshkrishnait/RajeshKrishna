@@ -14,7 +14,7 @@
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.8;
   color: rgba(0, 0, 0, 0.7); }
   @media screen and (max-width: 992px) {
@@ -335,11 +335,21 @@ figure {
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: white;
-            border: 2px solid white;
-            background: transparent !important; }
+            border: 1px solid white;
+            background: transparent !important; 
+            border-radius:10px;
+          }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
-              border: 1px solid white !important; }
+              border: 1px solid white !important;
+              box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19) !important;
+            }
+             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn.firstslide:hover {
+              background-image: linear-gradient(45deg, rgb(52, 148, 230), rgb(236, 110, 173)) !important;
+             }
+             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn.secondslide:hover {
+              background-image: linear-gradient(45deg,#A770EF, #CF8BF3,#FDB99B) !important;
+             }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
               width: 100%; } }
@@ -369,7 +379,9 @@ body.offcanvas {
   @media screen and (max-width: 768px) {
     .colorlib-narrow-content {
       padding: 0; } }
-
+.colorlib-narrow-content .col-md-4.text-center.animate-box.fadeInUp.animated{
+  flex-grow:1
+}
 .no-gutters {
   margin: 0;
   padding: 0; }
@@ -382,8 +394,6 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 2em;
-  padding-bottom: 2em;
   clear: both;
   width: 100%;
   display: block; }
@@ -396,15 +406,16 @@ body.offcanvas {
     .colorlib-about,
     .colorlib-services,
     .colorlib-contact {
-      padding-top: 5em;
-      padding-bottom: 8em; } }
+      padding-left: 10px;
+      padding-right:10px;
+    } }
 
 .author-img {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative; 
-  background-image: url('../images/img_bg.jpg');
+  background-image: url('../images/temp_prof_pic.jpg');
 }
 
 .colorlib-heading {
@@ -945,7 +956,6 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #2c98f0;
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
